@@ -3,3 +3,4 @@ Google was founded in 1996 and released its first version in 1998. It is a simpl
 
 Orjinal görüntü için: https://web.archive.org/web/19981202230410if_/http://www.google.com/
 
+https://app.patika.dev/
